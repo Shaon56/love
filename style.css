@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.one{
+    background-image: linear-gradient(red, yellow, green);
+    text-align: center;
+    align-items: center;
+}
+h1{
+    font-size: 3rem;
+    padding: 1rem;
+    color: blue;
+}
+h2{
+    font-size: 2rem;
+    padding-bottom: 1rem;
+    color: red;
+}
